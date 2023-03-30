@@ -1,0 +1,91 @@
+.full{
+    padding: 10px;
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; */
+    width: 980px;
+    /* background-color: gainsboro; */
+    align-items: left;
+    background-image: url(./new3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.back{
+    width: 150px;
+    height: 50px;
+}
+.caps{
+    width: 150px;
+    height: 50px;
+}
+.enter{
+    width: 130px;
+    height: 50px;
+}
+.shift_one{
+    width: 200px;
+    height: 50px;
+}
+/* button{
+    
+    color: aliceblue;
+} */
+.tab{
+    width: 100px;
+}
+
+.second{
+    margin-top: 10px;
+}
+.third{
+    margin-top: 10px;
+}
+.four{
+    margin-top: 10px;
+}
+.five{
+    margin-top: 10px;
+}
+.six{
+    margin-top: 10px;
+}
+
+.space{
+    /* height: 40px; */
+    width: 410px;
+    margin-top: 10px;
+}
+.last_one{
+    width: 70px;
+    
+}
+.up{
+    height: 50px;
+    width: 60px; 
+}
+.down{
+    height: 50px;
+    width: 60px; 
+}
+.ho{
+    height: 50px; 
+    width: 60px; 
+}
+.end{
+    height: 50px;
+    width: 60px;  
+}
+.second{
+    height: 50px; 
+}
+button{
+    width:50px ;
+    height: 50px;
+    color: white;
+    background-color: rgb(13, 14, 13);
+    border-radius: 10px;
+    border-color: aliceblue;
+    font-size: 20px;
+}
+.dlt{
+    width: 80px;
+}
