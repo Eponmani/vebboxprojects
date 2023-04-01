@@ -1,0 +1,69 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(./hotel6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about{
+    color: blue;
+}
+.second{
+    background-color: rgba(36, 35, 35, 0.678);
+    width: 400px;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 90px;
+}
+.rooms{
+    color: blue;
+}
+.home{
+    color: blue;
+}
+h3{
+    color: antiquewhite;
+     font-family:cur;
+     font-size:40px;
+}
+.h_one{
+    margin-left: 100px;
+}
+h2{
+color: aliceblue;
+margin-top: 80px;
+margin-left: 80px;
+font-family: cursive
+}
+.navi{
+    height: 70px;
+    background-color: #CBE4DE;
+
+}
+.fisrt{
+    margin-left: 1000px;
+   margin-top: -30px;
+}
+a{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.icons{
+    font-size: 30px;
+    margin-top: 80px;
+    margin-left: 700px;
+}
+.ins{
+    color: rgb(247, 7, 47);
+}
+.face{
+    color: blue;
+}
+.twit{
+    color: rgb(141, 141, 241);
+}
+.you{
+    color: rgb(247, 55, 55);
+}
