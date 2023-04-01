@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navi{
+    background-color: rgba(255, 127, 80, 0.568);
+    height: 70px;
+}
+.first{
+    margin-left: 1000px;
+    margin-top: -10px;
+    font-size: 20px;
+    color: aliceblue;
+}
+.home{
+    margin-left: 10px;
+}
+.room{
+    margin-left: 10px;
+}
+.food{
+    margin-left: 10px;
+}
+.about{
+    margin-left: 10px;
+}
+body{
+    background-image: url(./bac1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+i{
+    color: rgb(199, 199, 9);
+}
+.rat{
+    font-size: 20px;
+    font-weight: 100px;
+}
+.cat{
+    font-size: 20px;
+    font-weight: 100px;
+}
+img{
+    border-radius: 50px;
+    margin-left: 50px;
+}
+.imges{
+    margin-top: 30px;
+}
+.imges_one{
+    margin-top: 50px;
+}
