@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navi{
+    background-color: rgba(255, 127, 80, 0.568);
+    height: 60px;
+}
+.first{
+    margin-left: 1000px;
+    margin-top: -10px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+body{
+    background-image: url(./one.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.final{
+    background-color:rgba(241, 237, 236, 0.281);
+    width: 1000px;
+    height: 400px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.suc{
+    margin-left: 700px;
+    margin-top: 100px;
+   border-radius: 30px;
+
+}
+.heading{
+    margin-top: -250px;
+    /* font-size: 20px; */
+    color: aliceblue;
+    font-family: cursive;
+    
+}
+.room{
+    margin-left: 20px;
+}
+.food{
+    margin-left: 20px;
+}
+.about{
+    margin-left: 20px;
+}
+.ser{
+    margin-left: 20px;
+}
+.qua{
+    margin-left: 20px;
+}
+.tas{
+    margin-left: 20px;
+}
+i{
+    /* margin-left: 50px; */
+    color: yellow;
+}
+p{
+    font-family: cursive;
+    font-size: 30px;
+}
+a{
+    color: aliceblue;
+}
+a:hover{
+    background-color: brown;
+}
