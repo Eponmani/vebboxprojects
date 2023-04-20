@@ -1,0 +1,136 @@
+
+.logo{
+   
+    height: 100px;
+    background-color:rgb(3, 3, 59);
+}
+.content{
+    height: 100px;
+    background-color:rgb(6, 6, 61);
+}
+body{
+    background-image: url(./bc2.jpg);
+
+    background-size: cover;
+    /* background-image: url(./bac1.jpg); */
+    width: auto;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;   
+    padding-top: 40px;
+    color: white;
+    font-size: xx-large;
+}
+
+body{
+    overflow-x: hidden;
+}
+.intro{
+    margin-top: 30px;
+    width: 100%;
+    
+}
+.carousel-inner{
+    /* box-shadow: 0px 0px 20px 20px darkblue inset; */
+    border-radius: 50px;
+   
+}
+.wel{
+    padding-top: 90px;
+    font-size: 70px;
+    color: white;
+    padding-left: 500px;
+    
+}
+.to{
+    font-size: 70px;
+    color: white;
+    padding-left: 600px;
+}
+.my{
+    font-size: 70px;
+    color: white;
+    padding-left: 700px;
+}
+
+.s_one{
+    margin-top: 50px; 
+    
+}
+p{
+    font-family: cursive;
+    font-size: x-large;
+    color: rgb(11, 11, 56);
+    padding: 5px; 
+}
+.para{
+    margin-top: 60px;
+    margin-left: 40px;
+    font-size: 45px;
+    box-shadow: 0px 0px 20px 20px darkblue ;
+    height: 500px;
+    padding-left: 20px;
+    border-radius: 30px;
+    font-family: cursive;
+}
+p{
+    animation: color-change 1s infinite;
+}
+@keyframes color-change{
+    0%{color: rgb(205, 55, 50);}
+    20%{color: rgb(7, 135, 247);}
+    40%{color: tomato;}
+    60%{color: rgb(114, 255, 71);}
+    80%{color: gold;}
+    100%{color:palevioletred;}
+
+}
+
+.s_one:hover{
+    transform: scale(0.9);
+    transition-duration: 4s;
+    }
+.s_two{
+   border-radius: 30px;
+    margin-top: 50px;
+}
+.s_two:hover{
+    transform: scale(0.9);
+    transition-duration: 4s;
+    }
+.s_three{
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.s_three:hover{
+    transform: scale(0.9);
+    transition-duration: 4s;
+    }
+.s_four{
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.s_four:hover{
+    transform: scale(0.9);
+    transition-duration: 4s;
+    }
+
+.puriyala{
+    border-radius: 30px;
+    width:100%;
+    border: 50px solid darkblue;
+    }
+
+.saniyan{
+   padding-top: 50px;
+ 
+}
+.god{
+    margin-top: 50px;
+    /* border: 50px solid darkblue; */
+    /* background-color: black; */
+    padding-top: 30px;
+}
