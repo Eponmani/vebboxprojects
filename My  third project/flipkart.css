@@ -1,0 +1,107 @@
+.no{
+    height: 100px;
+}
+
+.content1{
+    height: 100px;
+    /* background-color:rgb(6, 6, 61); */
+}
+.se{
+    width: 500px;
+    position: absolute;
+    /* padding-top: -70px; */
+    margin-left: 300px;
+    margin-top: -90px;
+    /* padding-left: 400px; */
+}
+.icon{
+    position: absolute;
+    margin-left: 800px;
+    padding-top: 35px;
+    /* margin-top: 45px; */
+    /* padding-right: -50px; */
+}
+.tappa{
+    /* position: relative; */
+    height: 50px;
+    width: 400px;
+    font-size: larger;
+    margin-top: 15px;
+}
+.login{
+    font-size: larger;
+    width: 100px;
+    height: 40px;
+    background-color: white;
+}
+.anger1{
+    font-size: x-large;
+    color:white;
+    padding-left: 50px;
+}
+.anger2{
+    font-size: x-large;
+    color:white;
+    padding-left: 50px;
+}
+body{
+    overflow-x: hidden;
+}
+.flip{
+    padding-left: 250px;
+}
+.rows{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+.bcimg{
+    height: 400px;
+    width: 500px;
+}
+.smal1{
+    font-size: x-large;
+    color: green;
+    font-weight: bolder;
+    /* margin-top: 50px; */
+}
+.image{
+    background-image: url(./bc2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 500px;
+}
+img:hover{
+    transform: scale(0.9);
+    
+}
+.bf{
+    font-size: 50px;
+    font-weight: 700;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.tm{
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 57px; 
+}
+.but{
+    margin-left: 150px;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(55, 55, 245);
+    color: white;
+}
+.fan{
+    height: 200px;
+}
+.cool{
+    height: 200px;
+}
+.powder{
+    height: 200px;
+}
+.final{
+    width: 100%;
+    padding-top: 30px;
+}
